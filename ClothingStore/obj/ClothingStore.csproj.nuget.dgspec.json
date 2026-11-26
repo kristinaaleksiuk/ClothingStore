@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\huawei\\Source\\Repos\\ClothingStore\\ClothingStore\\ClothingStore.csproj": {}
+    "C:\\Users\\hasul\\source\\repos\\ClothingStore\\ClothingStore\\ClothingStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\huawei\\Source\\Repos\\ClothingStore\\ClothingStore\\ClothingStore.csproj": {
+    "C:\\Users\\hasul\\source\\repos\\ClothingStore\\ClothingStore\\ClothingStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\huawei\\Source\\Repos\\ClothingStore\\ClothingStore\\ClothingStore.csproj",
+        "projectUniqueName": "C:\\Users\\hasul\\source\\repos\\ClothingStore\\ClothingStore\\ClothingStore.csproj",
         "projectName": "ClothingStore",
-        "projectPath": "C:\\Users\\huawei\\Source\\Repos\\ClothingStore\\ClothingStore\\ClothingStore.csproj",
-        "packagesPath": "C:\\Users\\huawei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\huawei\\Source\\Repos\\ClothingStore\\ClothingStore\\obj\\",
+        "projectPath": "C:\\Users\\hasul\\source\\repos\\ClothingStore\\ClothingStore\\ClothingStore.csproj",
+        "packagesPath": "C:\\Users\\hasul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hasul\\source\\repos\\ClothingStore\\ClothingStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files(x86)\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\huawei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hasul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {}
           }
@@ -44,10 +45,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
@@ -90,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
